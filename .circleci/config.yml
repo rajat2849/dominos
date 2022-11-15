@@ -1,0 +1,78 @@
+version: 2.1
+ 
+orbs:
+ aws-cli: circleci/aws-cli@3.1.3
+ 
+workflows:
+  clean_test_build_&_deploy:
+    jobs:
+      - build
+
+jobs:
+
+ build:  # name of job
+  working_directory: ~/dominos
+  executor: aws-cli/default
+  steps:
+    - checkout:
+        path: ~/dominos
+    - aws-cli/setup:
+        aws-access-key-id: AWS_ACCESS_KEY
+        aws-secret-access-key: AWS_SECRET_KEY
+        aws-region: AWS_REGION_NAME
+    - setup_remote_docker:
+        version: 20.10.14
+    - run:
+       name: "Building Docker Image"
+       command: docker build -t $ECR_REGISTRY/$APP_NAME:$IMAGE_TAG_CLIENT .
+    - run:
+       name: "ECR Login"
+       command: aws ecr get-login-password | docker login --username AWS --password-stdin $ECR_REGISTRY
+    - run:
+       name: "Pushing  Image into Amazon Elastic Container"
+       command: docker push $ECR_REGISTRY/$APP_NAME:$IMAGE_TAG_CLIENT
+ 
+ 
+ 
+
+
+#  deploy:
+#    machine:
+#      image: ubuntu-2004:202010-01
+#    steps:
+#      - add_ssh_keys:
+#          fingerprints:
+#            - "cc:ea:56:1a:05:6e:61:13:b0:e7:c5:64:eb:2f:e4:f4"
+#      - run:
+#          name: "Deploying the app into AWS EC2"
+#          command: |
+#                  ssh -v -o StrictHostKeyChecking=no ec2-user@3.110.77.190 "
+#                  aws ecr get-login-password --region ap-south-1 | docker login --username AWS --password-stdin $ECR_REGISTRY &&                  
+#                  docker ps -aq | xargs docker stop | xargs docker rm &&
+#                  docker images -aq | xargs docker image rm &&
+#                  rm docker-compose.yml && 
+#                  tee -a docker-compose.yml \<<EOF
+
+#                   version: '3'
+#                   services:
+#                      frontend:
+#                         image: 334846596010.dkr.ecr.ap-south-1.amazonaws.com/data:client_image
+#                         ports:
+#                         - "3000:80"
+#                      backend:
+#                         image: 334846596010.dkr.ecr.ap-south-1.amazonaws.com/data:server_image
+#                         ports:
+#                            - "5000:5000" "
+#      - run:
+#          name: "running docker compose in ec2 instance"
+#          command: ssh -v -o StrictHostKeyChecking=no ec2-user@3.110.77.190 "
+#                   docker-compose up -d "
+ 
+                 
+
+
+  
+ 
+
+
+
