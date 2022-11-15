@@ -1,0 +1,38 @@
+.error-danger {
+	& i {
+	color:#ff0000;
+	font-size: 12px;
+	} 
+	& i:after {
+	content:"!";
+	color: #ff0000;
+	font-size: 12px;
+	}
+
+}
+
+#pac-input {
+	position: fixed!important;
+    top: 228px!important;
+    left: 6%!important;
+    width: 82%!important;
+    visibility: visible;
+    border: none;
+    margin-top: 4px!important;
+}
+
+#hide-input {
+	display: none;
+}
+
+.map-order-btn{
+	padding: 12px 10px;
+    font-size: 14px;
+    position: absolute;
+    z-index: 99;
+    top: 30px;
+    left: 0;
+    right: 0;
+    width: 90%;
+    margin: auto;
+}

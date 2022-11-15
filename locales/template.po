@@ -1,0 +1,629 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: template.pot conversion\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-27 16:46+0530\n"
+"PO-Revision-Date: 2018-04-04 10:21+0700\n"
+"Last-Translator: \n"
+"Language-Team: Indonesian\n"
+"Language: id\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Loco-Source-Locale: en-GB\n"
+"X-Loco-Api-Version: 1.0.19 20180414-1\n"
+
+msgid "Free Delivery"
+msgstr "Gratis Biaya Kirim"
+
+msgid "30 Minutes Delivery Guaranteed"
+msgstr "Garansi 30 Menit Pasti Sampai"
+
+msgid "Carry Out"
+msgstr "Ambil di Toko"
+
+msgid "Pick up your order at Domino's Store"
+msgstr "Ambil pesanan kamu di store Domino's"
+
+msgid  "See our menu and offers"
+msgstr "Lihat menu dan promo kami"
+
+msgid "Log in"
+msgstr "Masuk"
+
+msgid "Log in to reorder your favourites"
+msgstr "Masuk untuk memesan kembali pesanan favorit kamu"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "View our menu and offers"
+msgstr "Lihat menu dan promo kami"
+
+msgid "Required"
+msgstr "Diperlukan"
+
+msgid "First Name can`t be blank"
+msgstr "Nama depan tidak boleh kosong"
+
+msgid "Last Name can`t be blank"
+msgstr "Nama belakang tidak boleh kosong"
+
+msgid "Invalid email"
+msgstr "Email tidak valid"
+
+msgid "Invalid phone no"
+msgstr "No telpon tidak valid"
+
+msgid "Title Not Available"
+msgstr "Title tidak tersedia"
+
+msgid "DELIVERY"
+msgstr "Pengiriman"
+
+msgid "CUSTOMER DETAIL"
+msgstr "Data lengkap pelanggan"
+
+msgid "PROMOTIONS"
+msgstr "Promosi"
+
+msgid "VALUE DEALS"
+msgstr "Value Deals"
+
+msgid "PIZZA"
+msgstr "Pizza"
+
+msgid "SIDES & DESSERTS"
+msgstr "Sides & Desserts"
+
+msgid "BEVERAGE"
+msgstr "Minuman"
+
+msgid "MY CART"
+msgstr "Keranjang belanja saya"
+
+msgid "STORE LOCATOR"
+msgstr "Pencari store"
+
+msgid "PROMOS"
+msgstr "Promo"
+
+msgid "VALUE DEAL"
+msgstr "Value Deal"
+
+msgid "SIDES"
+msgstr "Sides"
+
+msgid "order detail"
+msgstr "detail Pesanan"
+
+msgid "choose payment"
+msgstr "pilih pembayaran"
+
+msgid "place order"
+msgstr "pesanan diterima"
+
+msgid "Login information"
+msgstr "Login in information"
+
+msgid "Personal information"
+msgstr "Informasi data pribadi"
+
+msgid "My Favourite Order"
+msgstr "Pesanan favorit saya"
+
+msgid "My Previous Order"
+msgstr "Pesanan saya sebelumnya"
+
+msgid "Order Placed"
+msgstr "Pesanan di terima"
+
+msgid "Making"
+msgstr "Sedang dibuat"
+
+msgid "In the oven"
+msgstr "Didalam oven"
+
+msgid "Ready To Deliver"
+msgstr "Siap dikirim"
+
+msgid "Out for delivery"
+msgstr "Keluar untuk pengiriman"
+
+msgid "Order complete"
+msgstr "Pesanan selesai"
+
+msgid "Forgot Password"
+msgstr "lupa kata sandi"
+
+msgid "Please enter your email. You will receive a link to reset password"
+msgstr "masukkan email Anda, Anda akan menerima link untuk mereset password"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Cancel"
+msgstr "Batal"
+
+msgid "Submit"
+msgstr "Submit"
+
+msgid "My Account"
+msgstr "Akun saya"
+
+msgid "My Orders"
+msgstr "Pesanan saya"
+
+msgid "Pizza Tracker"
+msgstr "Pizza Tracker"
+
+msgid "Others"
+msgstr "Lainnya"
+
+msgid "Store Finder"
+msgstr "Pencari store"
+
+msgid "History"
+msgstr "Sejarah"
+
+msgid "News and Updates"
+msgstr "Berita dan update"
+
+msgid "Career"
+msgstr "Karir"
+
+msgid "Term and conditions"
+msgstr "Syarat dan ketentuan"
+
+msgid "Privacy Policy"
+msgstr "Kebijakan"
+
+msgid "Term of use"
+msgstr "Jangka waktu penggunaan"
+
+msgid "Confirm password not matched"
+msgstr "Konfirmasi bahwa password tidak sesuai - konfirmasi kata sandi tidak sesuai"
+
+msgid "You are currently offline. Please connect to your Internet network"
+msgstr "anda sedang offline saat ini. Mohon hubungkan ke jaringan Internet - anda "
+
+msgid "Items"
+msgstr "Item"
+
+msgid "Qty"
+msgstr "Banyaknya"
+
+msgid "Price"
+msgstr "Harga"
+
+msgid "Subtotal"
+msgstr "Subtotal"
+
+msgid "Delivery Fee"
+msgstr "Biaya pengiriman"
+
+msgid "Tax"
+msgstr "Pajak"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Our crew member will carry a portable EDC machine for credit card/debit card payment during delivery payments made on delivery"
+msgstr "Kru kami akan membawa mesin EDC portabel untuk pembayaran kartu kredit/kartu debit yang dilakukan saat pengiriman"
+
+msgid "Credit Card"
+msgstr "Kartu kredit"
+
+msgid "Cash on Delivery"
+msgstr "Bayar ditempat"
+
+msgid "Delivery Address"
+msgstr "Alamat pengiriman"
+
+msgid "Delivery Method"
+msgstr "Metode pengiriman"
+
+msgid "Contact Number"
+msgstr "Nomor kontak"
+
+msgid "Customer Name"
+msgstr "Nama pelanggan"
+
+msgid "Order Date"
+msgstr "Tanggal pesanan"
+
+msgid "Please check your email for order confirmation"
+msgstr "Mohon cek email Anda untuk konfirmasi pesanan"
+
+msgid "Order Id"
+msgstr "Nomor pesanan"
+
+msgid "Store Address"
+msgstr "Alamat store"
+
+msgid "User Address"
+msgstr "Alamat pelanggan"
+
+msgid "Use Voucher"
+msgstr "Voucher pelanggan"
+
+msgid "Enter Voucher Code"
+msgstr "Masukkan kode voucher"
+
+msgid "Order Now"
+msgstr "Pesan sekarang"
+
+msgid "Order Later"
+msgstr "Pesan nanti"
+
+msgid "Today"
+msgstr "Hari ini"
+
+msgid "Selected Product Name"
+msgstr "Nama produk yang dipilih"
+
+msgid "Size"
+msgstr "Ukuran"
+
+msgid "Crust"
+msgstr "Crust"
+
+msgid "Quantity"
+msgstr "Banyaknya"
+
+msgid "Add to cart"
+msgstr "Masukkan ke keranjang"
+
+msgid "Choose Pizza"
+msgstr "Pilih pizza"
+
+msgid "Address not found"
+msgstr "Alamat tidak ditemukan"
+
+msgid "Map data service unavailable"
+msgstr "Layanan MAP data tidak tersedia - layanan data peta tidak tersedia"
+
+msgid "No available store nearest to you"
+msgstr "Tidak ada store yang tersedia di dekat Anda"
+
+msgid "There is no item in your cart. Please select the product item in the menu screen"
+msgstr "Tidak ada produk dalam keranjang Anda. Mohon pilih produk terlebih dahulu"
+
+msgid "Order not found"
+msgstr "Pesanan tidak ditemukan"
+
+msgid "The item has been added to your cart"
+msgstr "Produk telah di tambahkan dalam keranjang Anda"
+
+msgid "no routes available"
+msgstr "tidak ada rute yang tersedia"
+
+msgid "100555999"
+msgstr "100555999"
+
+msgid "CAREER"
+msgstr "Karir"
+
+msgid "There is no data for Career"
+msgstr "Tidak ada data untuk karir"
+
+msgid "CONTACT US"
+msgstr "Hubungi kami"
+
+
+msgid "we would love to hear what you think about Domino's, our pizza and our service. Please submit to us your feedback and we will get back to you soon"
+msgstr "Kami ingin mendengar pendapat Anda tentang Domino's, pizza kami, dan layanan kami, (baik maupun buruk). Kirimkan masukan Anda dan kami akan segera menghubungi Anda kembali."
+
+msgid "Message Subject*"
+msgstr "Message subject"
+
+msgid "Your Address*"
+msgstr "Alamat Anda*"
+
+msgid "Your Address"
+msgstr "Alamat Anda"
+
+msgid "select store"
+msgstr "pilih store"
+
+msgid "Your Name*"
+msgstr "nama Anda*"
+
+msgid "Your Email*"
+msgstr "email Anda*"
+
+msgid "Contact Number*"
+msgstr "nomor kontak*"
+
+msgid "Your Message*"
+msgstr "pesan Anda*"
+
+msgid "Your Message"
+msgstr "Pesan Anda"
+
+msgid "SUBMIT"
+msgstr "Kirim"
+
+msgid "Customer details"
+msgstr "Data pelanggan"
+
+msgid "First Name"
+msgstr "Nama depan"
+
+msgid "Last Name"
+msgstr "Nama Belakang"
+
+msgid "Number"
+msgstr "Nomor"
+
+msgid "Ext"
+msgstr "Ext"
+
+msgid "Next"
+msgstr "Berikutnya"
+
+msgid "Maximum 11 toppings allowed on each pizza or half pizza"
+msgstr "Maksimal 11 toping yang di perbolehkan untuk masing - masing pizza - atau setengah pizza"
+
+msgid "Maximum 3 cheese toppings allowed on each pizza or half pizza."
+msgstr "maksimal 3 topping keju yang diperbolehkan untuk masing - masing pizza"
+
+msgid "product Name"
+msgstr "nama produk"
+
+msgid "Current Toppings"
+msgstr "Topping saat ini"
+
+msgid "Click"
+msgstr "Klik"
+
+msgid "to remove. Click"
+msgstr "untuk menghapus. Klik"
+
+msgid "to add"
+msgstr "untuk menambahkan"
+
+msgid "Add topping"
+msgstr "Tambah topping"
+
+msgid "click to add. Only 2 topping may be changed are allowed per pizza (excludes extra value range, value range, and free toppings). Additional topping will be charged."
+msgstr "klik untuk menambahkan. Hanya perubahan 2 topping yang diperbolehkan per pizza (kecuali extra value range, value range, dan topping gratis). Penambahan topping akan di kenakan biaya."
+
+msgid "order Id"
+msgstr "nomor pesanan"
+
+msgid "Carry out"
+msgstr "Ambil di Toko"
+
+msgid "ko gree apple garden a20 a22 rt 05/005, subangiaya, sukabumi,43151"
+msgstr "n/a"
+
+msgid "Google api error, secure origin required"
+msgstr "Error di Google API"
+
+msgid " Type street/building (do not type jalan,jin..,orjl)"
+msgstr "tuliskan jalan / gedung (jalan tulis jalan, jln, atau jl) - tuliskan nama "
+
+msgid "Choose Address"
+msgstr "Pilih alamat"
+
+msgid "Your selected address:"
+msgstr "alamat pilihan Anda"
+
+msgid "Fill for more detail (optional):"
+msgstr "Isi lebih detail (pilihan)"
+
+msgid "Substreet"
+msgstr "Substreet"
+
+msgid "Tower"
+msgstr "Tower"
+
+msgid "Kav/number"
+msgstr "Kav / Nomor"
+
+msgid "Unit"
+msgstr "Unit"
+
+msgid "Floor"
+msgstr "Lantai"
+
+msgid "Search"
+msgstr "Cari"
+
+msgid "OR"
+msgstr "Atau"
+
+msgid "display the auto detected address location here......"
+msgstr "menampilkan alamat yang terdeteksi secara otomatis di sini ......"
+
+msgid "Choose"
+msgstr "Pilih"
+
+msgid "HISTORY"
+msgstr "Sejarah"
+
+msgid "image not found"
+msgstr "gambar tidak di temukan"
+
+msgid "Send Feedback"
+msgstr "Kirim feedback"
+
+msgid "Select"
+msgstr "Pilih"
+
+msgid "Account"
+msgstr "Akun"
+
+msgid "Save"
+msgstr "Simpan"
+
+msgid "Old password"
+msgstr "kata sandi lama"
+
+msgid "New password"
+msgstr "kata sandi baru"
+
+msgid "Confirm password"
+msgstr "konfirmasi kata sandi"
+
+msgid "Mr."
+msgstr "bapak"
+
+msgid "Ms."
+msgstr "Nona."
+
+msgid "Mrs."
+msgstr "Ibu."
+
+msgid "Date of birth (dd-mm-yyyy)"
+msgstr "Tanggal lahir"
+
+msgid "MY ORDERS"
+msgstr "Pesanan saya"
+
+msgid "News And Updates"
+msgstr "Berita dan update"
+
+msgid "Additional information, i.e: payment by MAP Voucher, use west gate, extra chili sauce."
+msgstr "Tambahan informasi, contoh pembayaran melalui voucher MAP, gunakan pintu barat, tambah saus sambal, dll"
+
+msgid "Additional Instruction"
+msgstr "Petunjuk tambahan"
+
+msgid "Important! once you click the \"Order Now\" button you cannot cancel and are obligated to pay according to the amount shown."
+msgstr "Penting! Setelah Anda klik tombol \"Pesan Sekarang\" Anda tidak dapat membatalkan pesanan dan Anda diwajibkan untuk membayar sesuai dengan harga yang tertera."
+
+msgid "order confirmation"
+msgstr "konfirmasi pesanan"
+
+msgid "OTHERS"
+msgstr "Lainnya"
+
+msgid "Contact us"
+msgstr "Hubungi kami"
+
+msgid "PRIVACY POLICY"
+msgstr "Kebijakan"
+
+msgid "Customize Topping"
+msgstr "Atur topping"
+
+msgid "Please select area"
+msgstr "Silahkan pilih area"
+
+msgid "Store Locator"
+msgstr "Pencarian lokasi toko"
+
+msgid "Area"
+msgstr "Area"
+
+msgid "TERM AND CONDITION"
+msgstr "Syarat dan ketentuan"
+
+msgid "TERMS OF USE"
+msgstr "Ketentuan penggunaan"
+
+msgid "Thank you for your order"
+msgstr "Terima kasih atas pesanan Anda"
+
+msgid "Track you order"
+msgstr "Lacak pesanan Anda"
+
+msgid "Enter mobile number/Email/Order ID"
+msgstr "Masukkan nomor ponsel / email / nomor pesanan"
+
+msgid "WHERE IS MY PIZZA"
+msgstr "Mana pizza Gue"
+
+msgid "Status order"
+msgstr "Status pesanan"
+
+msgid "Track your order from the store to your door"
+msgstr "Lacak pesanan Anda dari store hingga lokasi Anda"
+
+msgid "Tarcking Code"
+msgstr "Kode pelacakan"
+
+msgid "order placed"
+msgstr "pesanan diterima"
+
+msgid "Deliver Time"
+msgstr "Waktu pengiriman"
+
+msgid "Rider name"
+msgstr "Nama pengirim"
+
+msgid "service Method"
+msgstr "metode layanan"
+
+msgid "Edit"
+msgstr "Ubah"
+
+msgid "ORDER SUMMARY"
+msgstr "Ringkasan pesanan"
+
+msgid "PROMOS"
+msgstr "Promosi"
+
+msgid "Choose Drink"
+msgstr "Pilih Drink"
+
+msgid "Choose Side / Dessert"
+msgstr "Pilih Side / Dessert"
+
+msgid "Agree"
+msgstr "Setuju"
+
+msgid "Please check agreed to continue order"
+msgstr "Harap centang setuju untuk melanjutkan pesanan"
+
+msgid "Add this order to your favorite order?"
+msgstr "Tambahkan pesanan ini kedalam order favorite"
+
+msgid "STORE LIST"
+msgstr "DAFTAR TOKO"
+
+msgid "Map View"
+msgstr "Tampilan Peta"
+
+msgid "Order from this store"
+msgstr "Pesan Dari Toko Ini"
+
+msgid "Log in or Register"
+msgstr "Masuk atau Daftar"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Password"
+msgstr "Password"
+
+msgid "Forgot your password"
+msgstr "Lupa Password"
+
+msgid "Register"
+msgstr "Daftar"
+
+msgid "RESEND ACTIVATION CODE"
+msgstr "KIRIM ULANG KODE AKTIVASI"
+
+msgid "FACEBOOK REGISTRATION"
+msgstr "Daftar via facebook"
+
+msgid "Log Out"
+msgstr "Keluar"
+
+msgid "An email sent to"
+msgstr "Email yang dikirim ke"
+
+msgid "Invalid email address"
+msgstr "Email tidak valid"
+
+msgid "Message Subject*"
+msgstr "Judul Pesan*"
+
+msgid "Language"
+msgstr "Bahasa"

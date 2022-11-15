@@ -1,0 +1,26 @@
+.setting-wrapper {
+  & .setting-item{
+    display: flex;
+    border-bottom: 1px solid #e5e5e5;
+    align-items:center; 
+    // text-transform: uppercase;
+    & a {
+      color: #000;
+      padding: 10px 0px;
+      width: 100%;
+    }
+  }
+  & .MuiFormControlLabel-root {
+    margin:0;
+    text-transform: uppercase;
+    & .MuiSwitch-root {
+      order: 2;
+      margin-left: auto;
+    }
+  }
+  & .selected-lang {
+    padding-bottom: 10px;
+    border-bottom: 1px solid #e5e5e5;
+  }
+ 
+}

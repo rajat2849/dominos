@@ -1,0 +1,17 @@
+
+.div-bg {
+    & .content-rows:first-child{
+        padding-top: 10px;
+    }
+    & .content-rows{
+        & .description{
+            margin-bottom: 10px;
+        }
+        & ul {
+            padding-left:30px; 
+        }
+        & .strtoupper{
+            font-weight: bold;
+        }
+    }
+}

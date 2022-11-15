@@ -1,0 +1,24 @@
+.bot {
+  overflow: hidden;
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  left: 0%;
+  top: 0%;
+  z-index:100000000
+}
+
+.close-icon {
+  color: #fff;
+    position: fixed;
+    float: right;
+    right: 20px;
+    z-index:100000000;
+    margin-top:7px;
+
+    }
+
+
+.close-icon:hover {
+  color: blue;
+}

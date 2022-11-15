@@ -1,0 +1,13 @@
+.logo {max-width: 100%;}
+.header-section {
+    padding: 15px;
+    margin-bottom: 10px;
+    // background: url(../../public/box-bg-1.png) repeat; 
+    background-size: contain;
+    // box-shadow: 0 2px 10px #000;
+    background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,.1));
+}
+.cart-box > div {
+    padding: 15px 18px 12px 12px!important;
+}
+

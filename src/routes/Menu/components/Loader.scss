@@ -1,0 +1,33 @@
+.loader {
+  background:rgba(0,0,0,0.5);
+  background-image: url('../../../../public/newimages/loader.gif');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100px;
+  position: fixed;
+  z-index: 10000;
+  width: 100%;height: 100%;
+  top:0;
+  left:0;
+}
+
+
+.img-pizza {
+    height: 10px;
+    width: auto;
+}
+
+
+.btn-div {
+  text-align: center;
+  justify-content: center;
+}
+
+
+.text-size {
+  font-size : 13px
+}
+
+.new-text-size {
+      font-size: 15px !important;
+}

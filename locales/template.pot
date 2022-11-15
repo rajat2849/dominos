@@ -1,0 +1,523 @@
+#: src/routes/CustomizeTopping/components/ToppingList.js
+msgid "100555999"
+msgstr ""
+
+#: src/routes/Career/components/Career.js
+msgid "CAREER"
+msgstr ""
+
+msgid "Choose Drink"
+msgstr ""
+
+msgid "Choose Side / Dessert"
+msgstr ""
+
+msgid "PROMOS"
+msgstr ""
+
+#: src/routes/Career/components/Career.js
+msgid "There is no data for Career"
+msgstr ""
+
+#: src/routes/ContactUs/components/ContactUs.js
+msgid "CONTACT US"
+msgstr ""
+
+#: src/routes/ContactUs/components/ContactUs.js
+msgid "We Would love to hear what you think about dominos, our pizza, and our service- both the good and the bad. Please submit us your feedback and we will get back to you soon."
+msgstr ""
+
+#: src/routes/ContactUs/components/ContactUsForm.js
+msgid "Message Subject*"
+msgstr ""
+
+#: src/routes/ContactUs/components/ContactUsForm.js
+msgid "Your Address*"
+msgstr ""
+
+#: src/routes/ContactUs/components/ContactUsForm.js
+msgid "Your Address"
+msgstr ""
+
+#: src/routes/ContactUs/components/ContactUsForm.js
+msgid "select store"
+msgstr ""
+
+#: src/routes/ContactUs/components/ContactUsForm.js
+msgid "Your Name*"
+msgstr ""
+
+#: src/routes/ContactUs/components/ContactUsForm.js
+msgid "Your Email*"
+msgstr ""
+
+#: src/routes/ContactUs/components/ContactUsForm.js
+msgid "Contact Number*"
+msgstr ""
+
+#: src/routes/ContactUs/components/ContactUsForm.js
+msgid "Your Message*"
+msgstr ""
+
+#: src/routes/ContactUs/components/ContactUsForm.js
+msgid "Your Message"
+msgstr ""
+
+#: src/routes/ContactUs/components/ContactUsForm.js
+msgid "SUBMIT"
+msgstr ""
+
+#: src/routes/CustomerDetail/components/Customer/CustomerDetailForm.js
+msgid "Customer details"
+msgstr ""
+
+#: src/routes/CustomerDetail/components/Customer/CustomerDetailForm.js
+#: src/routes/MyAccount/components/PersonalInfo.js
+msgid "First Name"
+msgstr ""
+
+#: src/routes/CustomerDetail/components/Customer/CustomerDetailForm.js
+#: src/routes/MyAccount/components/PersonalInfo.js
+msgid "Last Name"
+msgstr ""
+
+#: src/routes/CustomerDetail/components/Customer/CustomerDetailForm.js
+#: src/routes/MyAccount/components/PersonalInfo.js
+msgid "Number"
+msgstr ""
+
+#: src/routes/CustomerDetail/components/Customer/CustomerDetailForm.js
+#: src/routes/MyAccount/components/PersonalInfo.js
+msgid "Ext"
+msgstr ""
+
+#: src/routes/CustomerDetail/components/Customer/CustomerDetailForm.js
+msgid "Email"
+msgstr ""
+
+#: src/routes/CustomerDetail/components/Customer/CustomerDetailForm.js
+#: src/routes/Delivery/components/DeliveryDetail.js
+msgid "Next"
+msgstr ""
+
+#: src/routes/CustomizeTopping/components/CustomizeTopping.js
+msgid "A MAXIMUM OF 11 TOPPING SERVES ALLOWED ON EACH PIZZA OR PIZZA HALF"
+msgstr ""
+
+#: src/routes/CustomizeTopping/components/CustomizeTopping.js
+msgid "MAXIMUN OF 3 SERVES OF ANY SINGLE TOPPING CHEESE ALLOWED ON EACH PIZZA OR PIZZA HALF."
+msgstr ""
+
+#: src/routes/CustomizeTopping/components/
+msgid "product Name"
+msgstr ""
+
+#: src/routes/CustomizeTopping/components/
+msgid "Current Toppings"
+msgstr ""
+
+#: src/routes/CustomizeTopping/components/
+msgid "Click"
+msgstr ""
+
+#: src/routes/CustomizeTopping/components/
+msgid "to remove. Click"
+msgstr ""
+
+#: src/routes/CustomizeTopping/components/CustomizeTopping.js
+msgid "to add"
+msgstr ""
+
+#: src/routes/CustomizeTopping/components/CustomizeTopping.js
+msgid "Add topping"
+msgstr ""
+
+#: src/routes/CustomizeTopping/components/CustomizeTopping.js
+msgid "Click to add. Two topping change allowed per pizza (excludes extra value Range, Value Range, and free toppings). Additional topping changes may incur a surcharge."
+msgstr ""
+
+#: src/routes/CustomizeTopping/components/ToppingList.js
+msgid "order Id"
+msgstr ""
+
+#: src/routes/CustomizeTopping/components/ToppingList.js
+msgid "Service Method"
+msgstr ""
+
+#: src/routes/CustomizeTopping/components/ToppingList.js
+msgid "Carry out"
+msgstr ""
+
+#: src/routes/CustomizeTopping/components/ToppingList.js
+msgid "Store Address"
+msgstr ""
+
+#: src/routes/CustomizeTopping/components/ToppingList.js
+msgid "ko gree apple garden a20 a22 rt 05/005, subangiaya, sukabumi,43151"
+msgstr ""
+
+#: src/routes/CustomizeTopping/components/ToppingList.js
+msgid "Contact Number"
+msgstr ""
+
+#: src/routes/CustomizeTopping/components/ToppingList.js
+msgid "8860591713"
+msgstr ""
+
+#: src/routes/Delivery/components/Delivery.js
+#: src/routes/StoreLocator/components/StoreLocator.js
+msgid "Google api error, secure origin required"
+msgstr ""
+
+#: src/routes/Delivery/components/DeliveryDetail.js
+msgid " Type street/building (do not type jalan,jin..,orjl)"
+msgstr ""
+
+#: src/routes/Delivery/components/DeliveryDetail.js
+msgid "Choose Address"
+msgstr ""
+
+#: src/routes/Delivery/components/DeliveryDetail.js
+msgid "Your selected address:"
+msgstr ""
+
+#: src/routes/Delivery/components/DeliveryDetail.js
+msgid "Fill for more detail (optional):"
+msgstr ""
+
+#: src/routes/Delivery/components/DeliveryDetail.js
+msgid "Substreet"
+msgstr ""
+
+#: src/routes/Delivery/components/DeliveryDetail.js
+msgid "Tower"
+msgstr ""
+
+#: src/routes/Delivery/components/DeliveryDetail.js
+msgid "Kav/number"
+msgstr ""
+
+#: src/routes/Delivery/components/DeliveryDetail.js
+msgid "Unit"
+msgstr ""
+
+#: src/routes/Delivery/components/DeliveryDetail.js
+msgid "Floor"
+msgstr ""
+
+#: src/routes/Delivery/components/DeliveryDetail.js
+msgid "Search"
+msgstr ""
+
+#: src/routes/Delivery/components/DeliveryDetail.js
+msgid "OR"
+msgstr ""
+
+#: src/routes/Delivery/components/DeliveryDetail.js
+msgid "Blooming hill"
+msgstr ""
+
+#: src/routes/Delivery/components/DeliveryDetail.js
+msgid "display the auto detected address location here......"
+msgstr ""
+
+#: src/routes/Delivery/components/DeliveryDetail.js
+msgid "Choose"
+msgstr ""
+
+#: src/routes/History/components/History.js
+msgid "HISTORY"
+msgstr ""
+
+#: src/routes/History/components/History.js
+msgid "image not found"
+msgstr ""
+
+#: src/routes/Home/components/HomeView.js
+msgid "Send Feedback"
+msgstr ""
+
+#: src/routes/Menu/components/Menu.js
+msgid "Select"
+msgstr ""
+
+#: src/routes/MyAccount/components/Account.js
+msgid "Account"
+msgstr ""
+
+#: src/routes/MyAccount/components/Account.js
+#: src/routes/MyAccount/components/LogInInfo.js
+#: src/routes/MyAccount/components/PersonalInfo.js
+msgid "Save"
+msgstr ""
+
+#: src/routes/MyAccount/components/LogInInfo.js
+msgid "example@gmail.com"
+msgstr ""
+
+#: src/routes/MyAccount/components/LogInInfo.js
+msgid "Old password"
+msgstr ""
+
+#: src/routes/MyAccount/components/LogInInfo.js
+msgid "New password"
+msgstr ""
+
+#: src/routes/MyAccount/components/LogInInfo.js
+msgid "Confirm password"
+msgstr ""
+
+#: src/routes/MyAccount/components/MyAccount.js
+msgid "My Account"
+msgstr ""
+
+#: src/routes/MyAccount/components/PersonalInfo.js
+msgid "Mr."
+msgstr ""
+
+#: src/routes/MyAccount/components/PersonalInfo.js
+msgid "Ms."
+msgstr ""
+
+#: src/routes/MyAccount/components/PersonalInfo.js
+msgid "Mrs."
+msgstr ""
+
+#: src/routes/MyAccount/components/PersonalInfo.js
+msgid "Date of birth (dd-mm-yyyy)"
+msgstr ""
+
+#: src/routes/MyOrder/components/MyOrder.js
+msgid "MY ORDERS"
+msgstr ""
+
+#: src/routes/MyOrder/components/OrderCollapse.js
+msgid "Qty"
+msgstr ""
+
+#: src/routes/MyOrder/components/OrderCollapse.js
+msgid "Price"
+msgstr ""
+
+#: src/routes/NewsAndUpdates/components/NewsAndUpdates.js
+msgid "News And Updates"
+msgstr ""
+
+#: src/routes/Order/components/PlaceOrderForm.js
+msgid "Additional information, i.e: payment by MAP Voucher, use west gate, extra chili sauce."
+msgstr ""
+
+#: src/routes/Order/components/PlaceOrderForm.js
+msgid "Additional Instruction"
+msgstr ""
+
+#: src/routes/Order/components/PlaceOrderForm.js
+msgid "Important! Once You clicked the \"Order Now\" button you can not cancel the order and are obligated to pay for the amount shown."
+msgstr ""
+
+#: src/routes/Order/components/ProgressBar.js
+msgid "order confirmation"
+msgstr ""
+
+#: src/routes/Others/components/Others.js
+msgid "OTHERS"
+msgstr ""
+
+#: src/routes/Others/components/Others.js
+msgid "Contact us"
+msgstr ""
+
+#: src/routes/PrivacyPolicy/components/Policy.js
+msgid "PRIVACY POLICY"
+msgstr ""
+
+#: src/routes/ProductDetails/components/PizzaContainer.js
+msgid "Customize Topping"
+msgstr ""
+
+#: src/routes/StoreLocator/components/DropDownSelect.js
+msgid "Please select area"
+msgstr ""
+
+#: src/routes/StoreLocator/components/StoreLocator.js
+msgid "Store Locator"
+msgstr ""
+
+#: src/routes/StoreLocator/components/StoreLocator.js
+msgid "Area"
+msgstr ""
+
+#: src/routes/TermConditions/components/TermConditions.js
+msgid "TERM AND CONDITION"
+msgstr ""
+
+#: src/routes/TermOfUse/components/TermsOfUse.js
+msgid "TERMS OF USE"
+msgstr ""
+
+#: src/routes/ThankYou/components/ThankYou.js
+msgid "Thank you for your order"
+msgstr ""
+
+#: src/routes/ThankYou/components/ThankYou.js
+msgid "Track you order"
+msgstr ""
+
+#: src/routes/Tracker/components/PizzaTracker.js
+msgid "Pizza Tracker"
+msgstr ""
+
+#: src/routes/Tracker/components/SearchBar.js
+msgid "Enter mobile number/Email/Order ID"
+msgstr ""
+
+#: src/routes/Tracker/components/TrackerContent.js
+msgid "WHERE IS MY PIZZA"
+msgstr ""
+
+#: src/routes/Tracker/components/TrackerContent.js
+msgid "Status order"
+msgstr ""
+
+#: src/routes/Tracker/components/TrackerContent.js
+msgid "Track your order from the store to your door"
+msgstr ""
+
+#: src/routes/Tracker/components/TrackerContent.js
+msgid "Tarcking Code"
+msgstr ""
+
+#: src/routes/Tracker/components/TrackerContent.js
+msgid "order placed"
+msgstr ""
+
+#: src/routes/Tracker/components/TrackerContent.js
+msgid "Deliver Time"
+msgstr ""
+
+#: src/routes/Tracker/components/TrackerContent.js
+msgid "Rider name"
+msgstr ""
+
+#: src/routes/ViewCart/components/section/Delivery.js
+msgid "service Method"
+msgstr ""
+
+#: src/routes/ViewCart/components/section/Delivery.js
+msgid "Edit"
+msgstr ""
+
+#: src/routes/ViewCart/components/section/Delivery.js
+msgid "Delivery Address"
+msgstr ""
+
+#: src/routes/ViewCart/components/section/Price.js
+msgid "Subtotal"
+msgstr ""
+
+#: src/routes/ViewCart/components/section/Price.js
+msgid "Tax"
+msgstr ""
+
+#: src/routes/ViewCart/components/section/Price.js
+msgid "Delivery Fee"
+msgstr ""
+
+#: src/routes/ViewCart/components/section/Price.js
+msgid "Total"
+msgstr ""
+
+#: src/routes/ViewCart/components/ViewCart.js
+msgid "ORDER SUMMARY"
+msgstr ""
+
+#: custom translation
+msgid "Unfortunately, this address is not currently in our delivery area"
+msgstr ""
+
+msgid "select"
+msgstr ""
+
+msgid "Confirm Order"
+msgstr ""
+
+msgid "order Now"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+msgid "Log Out"
+msgstr ""
+
+msgid "Please select payment option"
+msgstr ""
+
+msgid "Please select delevery method"
+msgstr ""
+
+msgid "We are facing some technical error. Please try later."
+msgstr ""
+
+msgid "Order not found"
+msgstr ""
+
+msgid "No available store nearest to you"
+msgstr ""
+
+msgid "Map View"
+msgstr ""
+
+msgid "STORE LIST"
+msgstr ""
+
+msgid "Agree"
+msgstr ""
+
+msgid "Please check agreed to continue order"
+msgstr ""
+
+msgid "Add this order to your favorite order?"
+msgstr ""
+
+msgid "Order from this store"
+msgstr ""
+
+msgid "Log in or Register"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Forgot your password"
+msgstr ""
+
+msgid "Register"
+msgstr ""
+
+msgid "RESEND ACTIVATION CODE"
+msgstr ""
+
+msgid "FACEBOOK REGISTRATION"
+msgstr ""
+
+msgid "Log Out"
+msgstr ""
+
+msgid "An email sent to"
+msgstr ""
+
+msgid "Invalid email address"
+msgstr ""
+
+msgid "Message Subject*"
+msgstr ""
+
+msgid "Language"
+msgstr ""

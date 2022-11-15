@@ -1,0 +1,87 @@
+.page-layout__viewport {
+  padding-top: 4rem;
+}
+
+.page-layout__nav-item--active {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+#root {
+  // background: url(../../../public/background.jpg) repeat-y;
+  background: url(../../../public/page-bg.jpg) repeat-y;
+  // background: #222;
+  background-size: contain;
+  min-height: 100%;
+}
+.order-btn {
+  background:#0db14b;
+  color:#fff;
+  text-align: center;
+  text-transform: uppercase;
+  border:0 none;
+  font-size: 14px;
+  padding:10px 12px;
+  margin-bottom:5px;
+  margin-top:10px;
+} 
+.btn, button, .form-control {
+  border-radius: 0;
+}
+.view-cart-btn {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 14px;
+  background: #fff;
+  color:#000;
+}
+a:focus, a:hover {
+  text-decoration: none;
+}
+
+.bdr-b {
+  border-bottom:1px solid #fff;
+}
+.title {
+  color:#fff;
+  font-size: 16px;
+  padding: 10px 0;
+  text-transform: uppercase;
+  & span {
+    border-bottom: 1px solid #fff;
+  }
+}
+h6.title {
+  text-transform: capitalize;
+}
+.form-control {
+  border-radius: 0;
+}
+.form-group{
+  text-align: left;
+  & label {color:#fff;} 
+}
+.description {
+  color:#fff;
+  font-size:16px;
+}
+.transparent-bg{
+  background: rgba(0,0,0,0.5);
+  color:#fff;
+}
+.text-red {
+  color: #cf152d;
+}
+.box-bg{
+  background: rgba(0,0,0,0.5);
+  padding: 10px;
+}
+input,
+textarea,
+[contenteditable] {
+  color: #666;
+  caret-color: #cf152d;
+}
+@media screen and (min-width:450px) {
+  .order-btn {font-size: 14px;}
+}

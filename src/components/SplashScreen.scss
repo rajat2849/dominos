@@ -1,0 +1,123 @@
+// body {
+//     counter-reset:0;
+// }
+// .splash-screen-container{
+//     background: url(../../public/newimages/splash_screen.png) no-repeat;
+//     background-color: #0066A6;
+//     background-size: 100%;
+//     min-height: 100%;
+//     overflow-x: hidden;
+//     scroll-behavior: smooth;
+//     position: fixed;
+//     left:0;
+//     top:0;
+//     bottom: 0;
+//     right:0;
+//     z-index: 999;
+//     background-position: center 35%;
+//     & .splash-screen-img{
+//         position: fixed;
+//         left:0;
+//         bottom: 0;
+//         right:0;
+//         z-index: 1;
+//         & img{
+//           max-width:100%;
+//           height: auto;
+//         }
+//         & .loading-bar{
+//             position: fixed!important;
+//             bottom: 15%;
+//             z-index: 2;
+//             left: 0;
+//             right: 0;
+//             width: 80%!important;
+//             margin: 0 auto!important;
+//             display: flex;
+//             align-items: center;
+//             background: #fff;
+//             height: 2px;
+//             & progress{
+//                 display: flex;
+//                 width: 100%;
+//                 height: 100%;
+//                 font-size: 10px;
+//                 animation: background-animate 8s linear infinite ;
+//                 -webkit-animation: background-animate 8s linear infinite ;
+//                 width:100%;
+//                 position: relative;
+//                 background: #1080b3;
+//                 -webkit-appearance: none;
+//                 appearance: none;
+//             }
+//             & span{
+//                 text-align: center;
+//                 height: 10px;
+//                 color:#fff;
+//                 font-size: 50%;
+//                 width:20px;
+//                 background: #000!important;
+//                 z-index: 2;
+//                 line-height: 1.15;
+//             }
+//         }
+//     }
+
+// progress {
+//     width: 100%;
+//     background-image: none;
+//     border: 0;
+//     height: 2em;
+//     border-radius: 9px;
+// }
+
+// progress[value]::-webkit-progress-bar {
+//     width: 100%;
+//     background: #1080b3;
+//     background-image: none;
+//     border: 0;
+//     height: 100%;
+// }
+
+// progress[value] {
+//     background-color: transparent;
+//     border-radius: 5px;
+//     position: relative;
+//     -webkit-appearance: none;
+//     -moz-appearance: none;
+//     appearance: none;
+// }
+
+//   progress[value]::-moz-progress-bar {
+//     border-radius: 2px;
+//     background-color: transparent;
+//     background-image: none;
+//   }
+
+//   progress[value]::-webkit-progress-value {
+//     border-radius: 2px;
+//     background-size: 100%;
+//     background-color: transparent;
+//     background-image: none;
+//   }
+//     @keyframes background-animate {
+//         0% { width: 0; }
+//         10% {width: 10%;}
+//         20% {width: 20%;}
+//         30% {width: 30%;}
+//         40% {width: 40%;}
+//         50% {width: 50%;}
+//         60% {width: 60%;}
+//         70% {width: 70%;}
+//         80% {width: 80%;}
+//         90% {width: 90%;}
+//         100% {width: 100%;}
+//     }
+// }
+// // @media screen and (orientation:landscape){
+// //     .splash-screen-container {
+// //         background: url(../../public/splash-screen-landscape.png) no-repeat;
+// //         background-size: 100%;
+// //         background-position: bottom center;
+// //     }
+// // }
