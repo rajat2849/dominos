@@ -7,8 +7,9 @@ workflows:
   clean_test_build_&_deploy:
     jobs:
       - build
-          requires:
-            - build
+      - deploy:
+            requires:
+              - build
 
 
 jobs:
