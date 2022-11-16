@@ -1,15 +1,16 @@
 'use strict';
-var version='v20';
-var cacheNameSpace='Dominos';
-var cacheName=cacheNameSpace+'-'+version;
-var staticAssetRegex=/(^(https?:\/\/)(.*\/public?\/m\.dominos\.co\.id)*)/i;
+//var version='v20';
+//var cacheNameSpace='Dominos';
+// var cacheName=cacheNameSpace+'-'+version;
+// var staticAssetRegex=/(^(https?:\/\/)(.*\/public?\/m\.dominos\.co\.id)*)/i;
 
 self.addEventListener('install',function(){
   console.log('[service-worker] Installing .. ');
 
-self.skipWaiting()});
+self.skipWaiting()
+});
 
-self.addEventListener('activate',function(e){
+self.addEventListener('activate',function(){
   console.log('[service-worker] Activating...');
 });
 // self.clients.claim();

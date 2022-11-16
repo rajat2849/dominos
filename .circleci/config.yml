@@ -50,7 +50,7 @@ jobs:
      - run:
          name: "Deploying the app into AWS EC2"
          command: |
-                 ssh -v -o StrictHostKeyChecking=no ec2-user@3.109.207.158 "
+                 ssh -v -o StrictHostKeyChecking=no ec2-user@65.2.75.210 "
                  aws ecr get-login-password --region ap-south-1 | docker login --username AWS --password-stdin $ECR_REGISTRY &&                  
                  docker ps -aq | xargs docker stop | xargs docker rm &&
                  docker images -aq | xargs docker image rm &&

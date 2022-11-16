@@ -2,9 +2,9 @@ const NODE_ENV = process.env.NODE_ENV || 'development';
 
 const API = JSON.stringify({
   // url: 'http://newdev.onlinedominosid.com/infdominos/api/',
-   url: 'https://migrationdev.dominos.id/infdominos/api/',
+  url: 'https://migrationdev.dominos.id/infdominos/api/',
   // url: "https://www.dominos.co.id/infdominos/api/",
-   pgurl: 'https://migrationdev.dominos.id/',
+  pgurl: 'https://migrationdev.dominos.id/',
   //pgurl: 'https://www.dominos.co.id/'
 });
 
