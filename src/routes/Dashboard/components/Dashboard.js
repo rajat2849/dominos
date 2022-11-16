@@ -287,7 +287,7 @@ class Dashboard extends React.Component {
                 :
                 <div>
                   <p className="mb-0 product-title mt-3 ml-3 product-title-logout" style={{fontSize:"12px"}}>
-                    <strong>Welcome,{" "}Dominos Lover</strong>
+                    <strong>Welcome,{" "}Incaendo Tech </strong>
                   </p>
                 </div>
               }
