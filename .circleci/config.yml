@@ -6,13 +6,46 @@ orbs:
 workflows:
   clean_test_build_&_deploy:
     jobs:
-      - build
+      - clean
+      - build:
+            requires:
+              - clean
       - deploy:
             requires:
               - build
 
 
 jobs:
+ clean:  # name of job
+  executor: aws-cli/default
+  steps:
+    - checkout
+    - aws-cli/setup:
+        aws-access-key-id: AWS_ACCESS_KEY
+        aws-secret-access-key: AWS_SECRET_KEY
+        aws-region: AWS_REGION_NAME
+    - run:
+       name: "ECR Login"
+       command: aws ecr get-login-password --region ap-south-1 | docker login --username AWS --password-stdin $ECR_REGISTRY
+    - run:
+       name: "Delete client image"
+       command: aws ecr batch-delete-image --repository-name $APP_NAME --image-ids imageTag=$IMAGE_TAG_CLIENT
+    - run:
+       name: "Delete server image"
+       command: aws ecr batch-delete-image --repository-name $APP_NAME --image-ids imageTag=$IMAGE_TAG_SERVER 
+
+#  test:  #name of job
+#   docker:
+#     - image: cimg/node:14.21.1
+#   steps:
+#     - checkout
+#     - run:
+#        name: "Install NPM tool"
+#        command: npm install
+#     - run:
+#        name: "Running Test"  
+#        command: npm run test
+ 
 
  build:  # name of job
   working_directory: ~/dominos
@@ -50,11 +83,11 @@ jobs:
      - run:
          name: "Deploying the app into AWS EC2"
          command: |
-                 ssh -v -o StrictHostKeyChecking=no ec2-user@65.1.111.150 "
+                 ssh -v -o StrictHostKeyChecking=no ec2-user@15.207.100.99 "
                  aws ecr get-login-password --region ap-south-1 | docker login --username AWS --password-stdin $ECR_REGISTRY &&                  
                  docker ps -aq | xargs docker stop | xargs docker rm &&
                  docker images -aq | xargs docker image rm &&
                  docker run -d -p 3000:3000 $ECR_REGISTRY/$APP_NAME:$IMAGE_TAG_CLIENT "
 
 
-# VS Code Extension Version: 1.0.2
+# VS Code Extension Version: 1.2.0
